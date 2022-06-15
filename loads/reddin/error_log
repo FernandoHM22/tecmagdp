@@ -1,0 +1,820 @@
+[26-Feb-2021 15:03:38 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/reddin/tablaReddin.php on line 14
+[26-Feb-2021 15:03:38 America/Mexico_City] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/reddin/tablaReddin.php on line 14
+[26-Feb-2021 15:03:44 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/reddin/tablaReddin.php on line 14
+[26-Feb-2021 15:03:44 America/Mexico_City] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/reddin/tablaReddin.php on line 14
+[01-Mar-2021 18:32:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 6
+[01-Mar-2021 18:32:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 6
+[01-Mar-2021 18:33:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 6
+[01-Mar-2021 18:34:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 6
+[01-Mar-2021 18:34:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 6
+[04-Mar-2021 14:35:02 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:35:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:36:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:43:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:44:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:44:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:45:10 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:49:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:50:03 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:50:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 14:50:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 15:02:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$relojc' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 15:03:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$relojc' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 15:04:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$relojc' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 15:04:55 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$relojc' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 15:05:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 15:07:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 17:35:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 17:36:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 17:37:26 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 17:37:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 17:41:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 17:42:49 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 17:46:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 17:59:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 18:01:22 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 18:02:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 18:02:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 18:05:45 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 18:07:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 18:09:11 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 18:13:56 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[04-Mar-2021 18:14:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$reloj' (T_VARIABLE) in /home3/tecmagdp/public_html/loads/reddin/reddinGerente.php on line 3
+[12-Mar-2021 18:31:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[12-Mar-2021 18:31:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[12-Mar-2021 18:35:28 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 20
+[13-Mar-2021 09:21:25 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 20
+[13-Mar-2021 09:21:47 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 20
+[13-Mar-2021 09:21:57 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 20
+[13-Mar-2021 09:22:25 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 20
+[13-Mar-2021 10:30:53 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 20
+[13-Mar-2021 11:19:12 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'img' (T_STRING), expecting ',' or ';' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 27
+[13-Mar-2021 11:19:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[13-Mar-2021 11:19:53 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[13-Mar-2021 11:20:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[13-Mar-2021 11:21:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 11:37:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 11:37:50 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 11:37:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 11:37:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 11:37:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 12:18:15 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 12:59:09 America/Mexico_City] PHP Fatal error:  Cannot use [] for reading in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 34
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:03:22 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:06:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[13-Mar-2021 13:11:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 13:11:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 13:11:34 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[13-Mar-2021 13:25:16 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[13-Mar-2021 13:25:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[13-Mar-2021 13:25:35 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[13-Mar-2021 13:25:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[13-Mar-2021 13:25:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[16-Mar-2021 09:54:43 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[16-Mar-2021 09:54:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[16-Mar-2021 16:49:32 America/Mexico_City] PHP Fatal error:  Cannot use [] for reading in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Mar-2021 16:50:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[16-Mar-2021 16:55:11 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[16-Mar-2021 16:55:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[16-Mar-2021 17:15:05 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 52
+[16-Mar-2021 17:17:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 50
+[16-Mar-2021 17:17:52 America/Mexico_City] PHP Fatal error:  Cannot use [] for reading in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 50
+[16-Mar-2021 17:20:10 America/Mexico_City] PHP Fatal error:  Cannot use [] for reading in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 51
+[16-Mar-2021 17:20:26 America/Mexico_City] PHP Fatal error:  Cannot use [] for reading in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 51
+[16-Mar-2021 17:20:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[16-Mar-2021 17:23:19 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 51
+[16-Mar-2021 17:23:49 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[18-Mar-2021 13:37:51 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 41
+[18-Mar-2021 15:27:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 25
+[18-Mar-2021 15:28:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[18-Mar-2021 15:30:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 15:45:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[18-Mar-2021 15:54:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[18-Mar-2021 15:55:41 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[18-Mar-2021 15:57:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:00:17 America/Mexico_City] PHP Warning:  Illegal string offset 'oportunidadConsenso' in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[18-Mar-2021 16:11:28 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[18-Mar-2021 16:12:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[18-Mar-2021 16:13:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Mar-2021 16:14:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[22-Mar-2021 17:18:14 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[22-Mar-2021 17:18:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[24-Mar-2021 16:53:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 23
+[24-Mar-2021 16:55:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[24-Mar-2021 16:55:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[24-Mar-2021 16:55:48 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[24-Mar-2021 16:55:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[24-Mar-2021 16:55:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[24-Mar-2021 16:55:52 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:17:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 30
+[24-Mar-2021 17:24:39 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 53
+[24-Mar-2021 17:24:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php:47
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 47
+[24-Mar-2021 17:26:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 42
+[08-Apr-2021 16:32:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[08-Apr-2021 16:32:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[08-Apr-2021 16:32:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[08-Apr-2021 16:33:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[08-Apr-2021 16:33:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[08-Apr-2021 16:33:05 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[08-Apr-2021 16:33:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[08-Apr-2021 16:33:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[08-Apr-2021 17:43:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 22
+[08-Apr-2021 17:52:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[08-Apr-2021 17:52:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[08-Apr-2021 17:52:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[08-Apr-2021 18:10:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:10:50 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 29
+[08-Apr-2021 18:11:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:16 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:13:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 32
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[08-Apr-2021 18:14:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[14-Apr-2021 12:14:13 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:14:39 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:15:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:16:08 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:03 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 11:17:30 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:33:25 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:51:29 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[16-Apr-2021 13:51:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[16-Apr-2021 13:51:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[16-Apr-2021 13:51:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[16-Apr-2021 13:51:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 13:51:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[16-Apr-2021 23:59:50 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:54 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[23-Apr-2021 14:49:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:04:58 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:11:36 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[27-Apr-2021 16:11:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[27-Apr-2021 16:11:38 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[27-Apr-2021 16:11:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 24
+[27-Apr-2021 16:11:40 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[27-Apr-2021 16:11:40 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:06:48 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:06:48 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:06:48 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:00 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:01 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:02 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:04 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:06 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:07 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:07 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:07 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:07 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:09 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:09 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:09 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:09 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:09 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:09 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:09 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:11 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:11 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:11 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:11 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:11 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:11 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:17 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:17 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:17 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:17 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:17 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:17 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:17 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:17 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:17 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:24 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:24 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:24 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:24 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:24 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:26 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:26 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:26 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:26 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:07:26 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:36 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:36 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:37 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:41 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:42 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:42 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:42 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:49 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:49 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:49 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:49 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:49 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:49 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:49 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:49 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:11:49 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 31
+[28-Apr-2021 17:38:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/reddin/seguimientoReddin.php on line 33
+[18-Oct-2021 11:22:52 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_planes_pendientes.php on line 28
+[18-Oct-2021 11:22:52 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_planes_pendientes.php on line 29
+[19-Oct-2021 12:53:02 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:17:22 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:17:22 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:17:22 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:17:22 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:17:36 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:17:37 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:17:37 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:23:03 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:23:03 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:23:03 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:23:29 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:23:29 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:23:29 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:26:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:26:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:26:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:26:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:26:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:26:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:27:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:27:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:27:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:28:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:28:33 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 23
+[19-Oct-2021 13:28:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:28:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:28:33 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 23
+[19-Oct-2021 13:28:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:28:56 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 23
+[19-Oct-2021 13:28:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:28:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:28:56 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 23
+[19-Oct-2021 13:30:19 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:30:19 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 23
+[19-Oct-2021 13:30:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:30:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:30:20 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 23
+[19-Oct-2021 13:30:43 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:30:43 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 23
+[19-Oct-2021 13:30:43 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:30:43 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:30:43 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 23
+[19-Oct-2021 13:32:54 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:32:54 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:32:54 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:33:39 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:33:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:33:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:34:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:34:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:34:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:35:25 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:35:25 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:35:25 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:37:45 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:37:45 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:37:45 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:39:57 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:39:57 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:39:57 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:40:19 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:40:19 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:40:19 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:42:52 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:42:53 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:42:53 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:43:44 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:43:44 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:43:44 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:45:26 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:45:26 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:45:26 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:45:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:45:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:45:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:46:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:46:34 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:46:34 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:51:17 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:51:17 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:51:17 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:51:38 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:51:38 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:51:38 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:52:08 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:52:08 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:52:08 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 13:52:42 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:52:42 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 13:52:42 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:22:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:22:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:22:41 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:25:02 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:25:02 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:25:02 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:25:39 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:25:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:25:40 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:26:49 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:26:49 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:26:49 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:27:27 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:27:27 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:27:27 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:28:45 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:28:45 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:28:45 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:35:00 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:35:01 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:35:01 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:35:15 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:35:15 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:35:16 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:35:16 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:35:16 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:35:16 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:35:26 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:35:26 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:35:26 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:36:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:36:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:36:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:37:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:37:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:37:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:37:36 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:37:36 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:38:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:38:21 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:38:21 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:39:02 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:39:02 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:39:02 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:39:17 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:39:17 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:39:39 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:39:39 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:39:39 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[19-Oct-2021 14:39:54 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:41:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:41:28 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:41:31 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 14:41:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:23:39 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 24
+[19-Oct-2021 15:30:01 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:30:01 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:30:01 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:30:31 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:30:31 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:30:31 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:30:31 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:31:21 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:31:21 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:31:21 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:31:26 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:31:26 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:31:26 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:31:31 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 32
+[19-Oct-2021 15:31:48 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 33
+[19-Oct-2021 15:31:48 America/Mexico_City] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 33
+[19-Oct-2021 15:32:28 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:32:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:32:32 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:32:34 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:35:28 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:35:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:35:36 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:36:02 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:36:06 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[19-Oct-2021 15:37:53 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[25-Oct-2021 15:28:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[25-Oct-2021 15:29:51 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[25-Oct-2021 15:29:53 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[25-Oct-2021 16:29:16 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[02-Nov-2021 15:08:54 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[02-Nov-2021 15:08:54 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 47
+[02-Nov-2021 15:19:16 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[02-Nov-2021 15:19:16 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 15:19:16 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[02-Nov-2021 15:19:19 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[02-Nov-2021 15:19:19 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 15:19:19 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[02-Nov-2021 15:19:21 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[02-Nov-2021 15:19:21 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 15:19:21 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[02-Nov-2021 15:19:26 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[02-Nov-2021 15:19:26 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 15:19:26 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[02-Nov-2021 15:19:34 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 15:58:17 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[02-Nov-2021 15:58:24 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[02-Nov-2021 15:58:24 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[02-Nov-2021 15:58:24 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 15:58:24 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[02-Nov-2021 15:58:44 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[02-Nov-2021 15:58:44 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[02-Nov-2021 15:58:44 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 15:58:44 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[02-Nov-2021 15:59:08 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[02-Nov-2021 15:59:08 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[02-Nov-2021 15:59:08 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 15:59:08 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[02-Nov-2021 16:50:46 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 17:11:21 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[02-Nov-2021 17:11:21 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 17:11:21 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[02-Nov-2021 17:11:25 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 17:11:31 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 17:11:34 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[02-Nov-2021 17:11:34 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 17:11:34 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[02-Nov-2021 17:11:36 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 17:11:40 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 17:11:42 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 17:11:44 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[02-Nov-2021 17:11:46 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[21-Jan-2022 10:27:11 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 6
+[21-Jan-2022 10:27:11 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[21-Jan-2022 10:27:11 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[21-Jan-2022 10:27:11 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[21-Jan-2022 11:51:57 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 5
+[21-Jan-2022 11:51:57 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[18-Feb-2022 23:44:04 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 54
+[18-Feb-2022 23:44:04 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[18-Feb-2022 23:44:04 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 56
+[21-Feb-2022 17:50:13 America/Mexico_City] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/loads/reddin/tabla_cumplimiento_planes.php on line 55
+[30-Mar-2022 12:50:25 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/indicadores.php on line 28
+[30-Mar-2022 12:51:29 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/reddin/indicadores.php on line 28

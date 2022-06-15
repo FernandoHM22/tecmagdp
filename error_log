@@ -1,0 +1,15 @@
+[29-Sep-2021 11:43:02 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[29-Sep-2021 11:43:02 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[29-Sep-2021 12:10:36 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[29-Sep-2021 15:31:40 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[30-Sep-2021 11:44:29 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[30-Sep-2021 13:27:11 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[30-Sep-2021 13:48:30 America/Mexico_City] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home3/tecmagdp/public_html/conexion/conexion.php on line 1
+[30-Sep-2021 14:14:17 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[30-Sep-2021 17:34:11 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[01-Oct-2021 13:26:49 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[04-Oct-2021 08:55:39 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[04-Oct-2021 09:22:55 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[04-Oct-2021 11:25:26 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[04-Oct-2021 11:57:31 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51
+[04-Oct-2021 12:42:44 America/Mexico_City] PHP Notice:  A session had already been started - ignoring session_start() in /home3/tecmagdp/public_html/index.php on line 51

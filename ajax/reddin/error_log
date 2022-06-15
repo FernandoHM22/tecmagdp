@@ -1,0 +1,84 @@
+[26-Jan-2021 12:46:07 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/ajax/reddin/insertMatriz.php on line 2
+[26-Jan-2021 12:46:07 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/ajax/reddin/insertMatriz.php on line 2
+[26-Jan-2021 12:46:07 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/ajax/reddin/insertMatriz.php on line 2
+[26-Jan-2021 12:46:07 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/insertMatriz.php on line 11
+[26-Jan-2021 12:46:07 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/insertMatriz.php on line 12
+[26-Jan-2021 12:46:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/tecmagdp/public_html/ajax/reddin/insertMatriz.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/reddin/insertMatriz.php on line 29
+[10-Mar-2021 17:03:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home3/tecmagdp/public_html/ajax/reddin/ajax_planesCumplidos.php on line 14
+[05-Oct-2021 10:46:41 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/ajax/reddin/ajax_seguimiento_reddin.php on line 5
+[05-Oct-2021 10:47:48 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/ajax/reddin/ajax_seguimiento_reddin.php on line 5
+[05-Oct-2021 10:56:45 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/ajax/reddin/ajax_seguimiento_reddin.php on line 7
+[05-Oct-2021 10:57:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting end of file in /home3/tecmagdp/public_html/ajax/reddin/ajax_seguimiento_reddin.php on line 8
+[05-Oct-2021 10:57:55 America/Mexico_City] PHP Warning:  explode() expects parameter 2 to be string, array given in /home3/tecmagdp/public_html/ajax/reddin/ajax_seguimiento_reddin.php on line 7
+[30-Mar-2022 13:19:24 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalEfectividadGerencial.php on line 9
+[30-Mar-2022 13:19:24 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalEfectividadGerencial.php on line 11
+[30-Mar-2022 13:19:24 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalEfectividadGerencial.php on line 15
+[30-Mar-2022 13:20:39 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalEfectividadGerencial.php on line 9
+[30-Mar-2022 13:20:39 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalEfectividadGerencial.php on line 11
+[30-Mar-2022 13:20:39 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalEfectividadGerencial.php on line 15
+[30-Mar-2022 16:41:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php:43
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 43
+[30-Mar-2022 16:42:03 America/Mexico_City] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 37
+[30-Mar-2022 16:42:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php:43
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 43
+[30-Mar-2022 16:43:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php:43
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 43
+[30-Mar-2022 17:08:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Function name must be a string in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php:55
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 55
+[31-Mar-2022 10:10:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 9
+[31-Mar-2022 10:12:12 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:12:12 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:13:23 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:13:23 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:13:38 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:13:38 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:15:05 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:15:05 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:16:23 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:16:23 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:16:44 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:16:44 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:17:40 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:17:40 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:17:46 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:17:46 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:18:30 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[31-Mar-2022 10:18:30 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_modalGPTW.php on line 8
+[26-Apr-2022 14:33:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 6
+[26-Apr-2022 14:33:01 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 27
+[26-Apr-2022 14:33:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 30
+[26-Apr-2022 14:33:01 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 85
+[26-Apr-2022 14:34:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 6
+[26-Apr-2022 14:34:20 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 27
+[26-Apr-2022 14:34:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 30
+[26-Apr-2022 14:34:20 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 85
+[26-Apr-2022 14:37:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 6
+[26-Apr-2022 14:37:17 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 27
+[26-Apr-2022 14:37:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 30
+[26-Apr-2022 14:37:17 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 85
+[26-Apr-2022 14:38:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 6
+[26-Apr-2022 14:38:47 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 27
+[26-Apr-2022 14:38:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 30
+[26-Apr-2022 14:38:47 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 85
+[26-Apr-2022 14:39:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 6
+[26-Apr-2022 14:39:47 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 27
+[26-Apr-2022 14:39:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 30
+[26-Apr-2022 14:39:47 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 85
+[26-Apr-2022 14:43:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 6
+[26-Apr-2022 14:43:17 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 27
+[26-Apr-2022 14:43:17 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 30
+[26-Apr-2022 14:43:17 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/ajax/reddin/ajax_indicadores.php on line 85

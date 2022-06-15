@@ -1,0 +1,886 @@
+[11-Jan-2021 15:56:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/tecmagdp/public_html/ajax/administracion/ajax_borrarf_o.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/administracion/ajax_borrarf_o.php on line 3
+[11-Jan-2021 15:58:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/tecmagdp/public_html/ajax/administracion/ajax_borrarf_o.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/administracion/ajax_borrarf_o.php on line 3
+[11-Jan-2021 15:58:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home3/tecmagdp/public_html/ajax/administracion/ajax_borrarf_o.php on line 3
+[11-Jan-2021 16:02:02 America/Mexico_City] PHP Parse error:  syntax error, unexpected '=' in /home3/tecmagdp/public_html/ajax/administracion/ajax_borrarf_o.php on line 8
+[16-Mar-2021 12:53:30 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/administracion/ajax_habilitarEvaluacion.php on line 10
+[16-Mar-2021 12:53:34 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/administracion/ajax_habilitarEvaluacion.php on line 10
+[05-Apr-2022 16:31:29 America/Mexico_City] PHP Fatal error:  Cannot redeclare generatePassword() (previously declared in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:16) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 16
+[05-Apr-2022 16:35:49 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:19) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 21
+[05-Apr-2022 16:36:16 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:19) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 21
+[05-Apr-2022 16:36:57 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:19) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 21
+[05-Apr-2022 16:38:01 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:17) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 19
+[05-Apr-2022 16:38:34 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:19) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 21
+[05-Apr-2022 16:39:59 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:19) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 21
+[05-Apr-2022 16:40:56 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:19) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 21
+[05-Apr-2022 16:42:27 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:19) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 21
+[05-Apr-2022 16:46:48 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:24) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 26
+[05-Apr-2022 16:47:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:25) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 28
+[05-Apr-2022 16:48:39 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:25) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 28
+[05-Apr-2022 16:49:02 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:25) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 28
+[05-Apr-2022 16:49:32 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:25) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 28
+[05-Apr-2022 17:28:20 America/Mexico_City] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  (addAnAddress to): UsuarioPrueba 2@tecma.com in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php:931
+Stack trace:
+#0 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(902): PHPMailer->addAnAddress('to', 'UsuarioPrueba 2...', '')
+#1 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(821): PHPMailer->addOrEnqueueAnAddress('to', 'UsuarioPrueba 2...', '')
+#2 /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php(128): PHPMailer->addAddress('UsuarioPrueba 2...')
+#3 {main}
+  thrown in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php on line 931
+[07-Apr-2022 12:10:36 America/Mexico_City] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  (addAnAddress to): UsuarioPrueba 2@tecma.com in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php:931
+Stack trace:
+#0 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(902): PHPMailer->addAnAddress('to', 'UsuarioPrueba 2...', '')
+#1 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(821): PHPMailer->addOrEnqueueAnAddress('to', 'UsuarioPrueba 2...', '')
+#2 /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php(128): PHPMailer->addAddress('UsuarioPrueba 2...')
+#3 {main}
+  thrown in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php on line 931
+[07-Apr-2022 12:30:03 America/Mexico_City] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  (addAnAddress to): UsuarioPrueba 3@tecma.com in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php:931
+Stack trace:
+#0 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(902): PHPMailer->addAnAddress('to', 'UsuarioPrueba 3...', '')
+#1 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(821): PHPMailer->addOrEnqueueAnAddress('to', 'UsuarioPrueba 3...', '')
+#2 /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php(125): PHPMailer->addAddress('UsuarioPrueba 3...')
+#3 {main}
+  thrown in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php on line 931
+[07-Apr-2022 13:05:27 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:86) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 140
+[07-Apr-2022 13:08:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:138) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 147
+[26-May-2022 12:12:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 6
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 12:18:50 America/Mexico_City] PHP Warning:  substr() expects parameter 2 to be integer, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 14:53:51 America/Mexico_City] PHP Warning:  Illegal offset type in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 73
+[26-May-2022 16:00:00 America/Mexico_City] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  (addAnAddress to):  in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php:881
+Stack trace:
+#0 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(821): PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php(152): PHPMailer->addAddress(NULL)
+#2 {main}
+  thrown in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php on line 881
+[26-May-2022 16:08:48 America/Mexico_City] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  (addAnAddress to):  in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php:881
+Stack trace:
+#0 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(821): PHPMailer->addOrEnqueueAnAddress('to', '', '')
+#1 /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php(154): PHPMailer->addAddress(NULL)
+#2 {main}
+  thrown in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php on line 881
+[26-May-2022 16:13:37 America/Mexico_City] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  (addAnAddress to): Central in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php:881
+Stack trace:
+#0 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(821): PHPMailer->addOrEnqueueAnAddress('to', 'Central', '')
+#1 /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php(157): PHPMailer->addAddress('Central')
+#2 {main}
+  thrown in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php on line 881
+[26-May-2022 16:16:36 America/Mexico_City] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  (addAnAddress to): Central in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php:881
+Stack trace:
+#0 /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php(821): PHPMailer->addOrEnqueueAnAddress('to', 'Central', '')
+#1 /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php(157): PHPMailer->addAddress('Central')
+#2 {main}
+  thrown in /home3/tecmagdp/public_html/vendor/smtp/class.phpmailer.php on line 881
+[26-May-2022 16:18:36 America/Mexico_City] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 56
+[26-May-2022 16:20:38 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 169
+[26-May-2022 16:33:50 America/Mexico_City] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 56
+[26-May-2022 17:32:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 21
+[26-May-2022 17:32:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 21
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 28
+[26-May-2022 18:17:56 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 32
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:18:13 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:30 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:19:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:20:33 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  Cannot use a scalar value as an array in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 25
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 27
+[26-May-2022 18:21:10 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargar_nuevos_usuarios.php on line 33
+[27-May-2022 12:27:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:8) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 21
+[27-May-2022 12:29:35 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:10) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 24
+[27-May-2022 12:37:21 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:14) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 29
+[27-May-2022 12:39:35 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:14) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 32
+[27-May-2022 12:40:22 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:14) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 34
+[27-May-2022 12:41:28 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:14) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 34
+[27-May-2022 12:41:56 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:14) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 34
+[27-May-2022 12:43:39 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:14) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 34
+[27-May-2022 12:45:02 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:14) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 34
+[27-May-2022 12:52:55 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:18) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 38
+[27-May-2022 12:55:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:18) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 38
+[27-May-2022 12:56:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:18) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 38
+[27-May-2022 12:56:25 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:18) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 38
+[27-May-2022 13:03:09 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:18) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 38
+[27-May-2022 14:18:18 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_cargarBajas.php:20) in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargarBajas.php on line 53
+[27-May-2022 14:19:33 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_cargarBajas.php:20) in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargarBajas.php on line 53
+[27-May-2022 15:06:58 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargarBajas.php on line 44
+[27-May-2022 15:06:58 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargarBajas.php on line 45
+[27-May-2022 18:16:19 America/Mexico_City] PHP Warning:  implode(): Invalid arguments passed in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargarBajas.php on line 44
+[27-May-2022 18:16:19 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/ajax/administracion/ajax_cargarBajas.php on line 45
+[30-May-2022 15:42:37 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php:18) in /home3/tecmagdp/public_html/ajax/administracion/ajax_nuevos_usuarios.php on line 38

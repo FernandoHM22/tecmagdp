@@ -1,0 +1,1115 @@
+[10-Dec-2020 14:24:46 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:24:46 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:24:46 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:24:46 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 27
+[10-Dec-2020 14:24:46 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 28
+[10-Dec-2020 14:24:48 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:24:48 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:24:48 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:24:48 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 27
+[10-Dec-2020 14:24:48 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 28
+[10-Dec-2020 14:24:52 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:24:52 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:24:52 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:24:52 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 27
+[10-Dec-2020 14:24:52 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 28
+[10-Dec-2020 14:25:19 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:25:19 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:25:19 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:25:19 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 27
+[10-Dec-2020 14:25:19 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 28
+[10-Dec-2020 14:26:01 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 28
+[10-Dec-2020 14:28:14 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:28:14 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:28:14 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:28:14 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 27
+[10-Dec-2020 14:28:14 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 28
+[10-Dec-2020 14:28:37 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:28:37 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:28:37 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:28:37 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 27
+[10-Dec-2020 14:28:37 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 28
+[10-Dec-2020 14:29:59 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:29:59 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:29:59 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:29:59 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 29
+[10-Dec-2020 14:29:59 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 30
+[10-Dec-2020 14:30:25 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:30:25 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:30:25 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:30:25 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 27
+[10-Dec-2020 14:30:25 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 28
+[10-Dec-2020 14:30:41 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:30:41 America/Mexico_City] PHP Warning:  include(../conexion/conexion.php): failed to open stream: No such file or directory in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:30:41 America/Mexico_City] PHP Warning:  include(): Failed opening '../conexion/conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 2
+[10-Dec-2020 14:30:41 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 27
+[10-Dec-2020 14:30:41 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 28
+[10-Dec-2020 16:36:56 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 6
+[10-Dec-2020 16:39:00 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 7
+[08-Jan-2021 14:46:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[13-Jan-2021 12:08:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[13-Jan-2021 15:04:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 47
+[13-Jan-2021 15:04:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 47
+[15-Jan-2021 12:54:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 12:54:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 12:54:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 12:54:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 12:54:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 12:58:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 12:58:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 12:58:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 12:58:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 12:58:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 13:01:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 13:01:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 13:01:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 13:01:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[15-Jan-2021 13:01:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[21-Jan-2021 12:29:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 47
+[22-Jan-2021 11:15:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 47
+[22-Jan-2021 11:15:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 47
+[23-Jan-2021 15:42:54 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 48
+[23-Jan-2021 15:42:54 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 48
+[26-Jan-2021 14:16:33 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 48
+[26-Jan-2021 14:32:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 47
+[26-Jan-2021 14:32:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 47
+[26-Jan-2021 14:39:10 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 47
+[26-Jan-2021 14:39:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 47
+[26-Jan-2021 14:56:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 48
+[26-Jan-2021 15:00:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 48
+[16-Feb-2021 12:42:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[16-Feb-2021 12:45:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[16-Feb-2021 12:48:35 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[16-Feb-2021 14:49:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[16-Feb-2021 14:53:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Feb-2021 15:26:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[17-Feb-2021 15:26:40 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[03-Mar-2021 19:51:45 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[03-Mar-2021 21:06:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[04-Mar-2021 11:12:33 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[04-Mar-2021 11:12:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[04-Mar-2021 11:12:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[04-Mar-2021 11:13:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[04-Mar-2021 11:13:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[04-Mar-2021 11:13:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[04-Mar-2021 11:13:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[04-Mar-2021 11:14:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[04-Mar-2021 11:14:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[08-Mar-2021 12:26:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[08-Mar-2021 12:26:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[08-Mar-2021 13:04:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[08-Mar-2021 13:04:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[08-Mar-2021 13:09:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[10-Mar-2021 17:27:22 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:27:32 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:28:27 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:29:19 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:29:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:33:57 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:34:30 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:35:11 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:35:25 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:35:39 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:36:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:36:58 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:37:25 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:37:55 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:38:32 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:38:32 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[10-Mar-2021 17:38:50 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:38:50 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[10-Mar-2021 17:40:41 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:41:13 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:41:23 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:41:59 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:42:13 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:42:29 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:42:58 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:43:13 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:43:57 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:44:20 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:44:54 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:45:21 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:45:32 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:46:01 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:46:13 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:46:54 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:47:36 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:48:37 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:49:29 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:49:49 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:50:23 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:50:45 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:51:41 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:54:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:54:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:54:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:54:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:54:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:54:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:54:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:25 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 10
+[10-Mar-2021 17:55:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:34 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:38 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:38 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:38 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:38 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:38 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:38 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:55:38 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:00 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:00 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:00 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:00 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:00 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:00 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:00 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[10-Mar-2021 17:56:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 63
+[11-Mar-2021 11:52:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 12:27:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 12:43:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:05:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:05:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:05:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:05:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:05:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:05:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:05:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:05:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:05:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 13:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 14:08:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:08:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:08:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:08:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:08:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:08:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:08:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:08:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:08:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:28:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:28:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:28:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:28:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Mar-2021 14:55:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 14:55:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 14:55:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 14:55:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 14:55:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 14:55:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 14:55:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 14:55:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[11-Mar-2021 14:55:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[12-Mar-2021 09:16:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[12-Mar-2021 09:16:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[12-Mar-2021 09:16:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[12-Mar-2021 09:16:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:05:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:06:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:06:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:06:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:06:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:06:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Mar-2021 12:08:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[17-Mar-2021 09:52:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 15:19:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 15:19:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 18:53:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 18:53:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:03:30 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:03:30 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:12:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:12:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:21:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:21:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:28:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:28:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:28:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:36:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:36:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:36:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:36:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:44:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:44:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:44:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:44:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:45:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:45:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:45:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:45:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:48:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:48:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:48:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:48:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:54:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:54:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:54:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:54:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:54:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:54:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:54:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 20:54:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:26 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:26 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:26 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:26 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[17-Mar-2021 21:00:26 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[18-Mar-2021 18:45:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[18-Mar-2021 18:45:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[18-Mar-2021 18:45:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[18-Mar-2021 18:45:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[18-Mar-2021 18:45:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 12:30:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 12:30:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 12:30:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 12:30:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 12:30:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 12:30:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 12:30:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 12:30:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 12:30:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 15:44:30 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 15:46:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 15:47:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 17:54:54 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 17:59:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 17:59:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:14:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:14:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:14:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:15:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:15:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:15:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:15:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:15:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:15:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:15:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:15:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:15:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:35:30 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:35:30 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:35:30 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:35:30 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:36:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:36:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:36:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:36:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:36:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:36:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:36:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[19-Mar-2021 18:36:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[26-Mar-2021 14:00:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 08:26:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 08:27:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 09:35:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 10:14:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 10:14:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:12:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:20:10 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:29:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:32:03 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:32:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:32:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:40:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:42:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:42:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:43:03 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:43:14 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:43:30 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:44:59 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:45:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[31-Mar-2021 20:47:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Apr-2021 10:24:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Apr-2021 10:25:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Apr-2021 10:26:35 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Apr-2021 10:37:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Apr-2021 10:40:23 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Apr-2021 09:51:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Apr-2021 09:51:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Apr-2021 09:52:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Apr-2021 09:52:40 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Apr-2021 09:53:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Apr-2021 09:53:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Apr-2021 09:53:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Apr-2021 09:59:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Apr-2021 10:00:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 12:32:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[06-Apr-2021 13:49:32 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 13:49:35 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 13:52:23 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 13:53:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 13:53:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 13:54:56 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 13:55:32 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 13:58:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 14:01:56 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 14:02:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 14:03:56 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 14:03:56 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 14:04:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 14:04:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 14:04:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[06-Apr-2021 14:04:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[12-Apr-2021 10:26:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[12-Apr-2021 10:26:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[27-Apr-2021 17:04:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[05-May-2021 13:35:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-May-2021 13:35:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-May-2021 13:35:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-May-2021 13:35:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-May-2021 13:35:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[13-May-2021 18:47:23 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:47:23 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:47:23 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:47:23 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:48:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:48:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:48:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:48:11 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:52:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:52:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:52:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[13-May-2021 18:52:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[14-May-2021 12:46:35 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[14-May-2021 12:46:35 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[14-May-2021 12:46:35 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[14-May-2021 12:46:35 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[14-May-2021 16:34:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[14-May-2021 16:34:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[14-May-2021 16:34:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[14-May-2021 16:34:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[27-May-2021 09:37:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[27-May-2021 09:37:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[27-May-2021 09:37:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[27-May-2021 09:37:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[27-May-2021 09:37:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[27-May-2021 10:07:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[09-Jun-2021 10:45:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[09-Jun-2021 10:45:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[09-Jun-2021 10:45:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[09-Jun-2021 10:45:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[09-Jun-2021 10:45:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[09-Jun-2021 10:45:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[17-Jun-2021 11:19:14 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[17-Jun-2021 11:19:14 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[17-Jun-2021 11:19:14 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[17-Jun-2021 14:15:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[17-Jun-2021 14:15:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[17-Jun-2021 14:15:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[17-Jun-2021 14:15:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 12:58:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[01-Jul-2021 12:58:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[01-Jul-2021 12:58:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[01-Jul-2021 14:34:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[01-Jul-2021 14:34:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[01-Jul-2021 17:43:33 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 17:53:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 17:53:04 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[01-Jul-2021 17:54:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[01-Jul-2021 18:01:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:01:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:02:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[01-Jul-2021 18:04:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:04:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:04:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:07:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:07:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:07:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:07:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:09:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:09:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:09:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:09:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:09:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:11:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:11:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:11:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:11:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:11:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:13 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:13 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:13 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:13 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:13 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:13:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:16:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:16:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:16:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:16:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:16:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:17:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:17:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:17:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:17:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:17:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:21:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:21:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:21:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:21:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:21:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:14 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:14 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:14 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:14 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:14 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:31:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:32:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:32:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:32:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:32:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:32:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:34:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:34:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:34:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:34:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:34:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 18:37:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:37:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:37:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:37:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:37:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:37:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:37:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:37:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:37:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:37:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:39:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:39:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:39:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:39:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 18:39:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[01-Jul-2021 19:01:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 19:01:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 19:01:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 19:01:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 19:01:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 19:03:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 19:03:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 19:03:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 19:03:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[01-Jul-2021 19:03:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:00:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:00:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:00:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:00:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:00:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:05:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:05:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:05:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:05:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[02-Jul-2021 09:05:49 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:02:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:02:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:02:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:02:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:02:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:03:22 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:03:22 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:03:22 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:03:22 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:03:22 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:04:47 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:10:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:10:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:10:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:10:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 15:10:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 17:04:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[05-Jul-2021 17:04:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[05-Jul-2021 17:04:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[05-Jul-2021 17:04:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[05-Jul-2021 17:04:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[05-Jul-2021 17:07:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 17:07:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 17:07:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 17:07:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[05-Jul-2021 17:07:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[21-Jul-2021 18:22:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[22-Jul-2021 12:14:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[22-Jul-2021 12:21:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[22-Jul-2021 12:47:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[22-Jul-2021 12:47:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[22-Jul-2021 12:47:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[12-Aug-2021 18:13:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[12-Aug-2021 18:14:34 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[24-Aug-2021 18:36:54 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[24-Aug-2021 18:38:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[25-Aug-2021 09:22:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[25-Aug-2021 09:22:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[25-Aug-2021 09:22:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[25-Aug-2021 10:37:59 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[26-Aug-2021 13:05:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:05:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:05:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:05:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:05:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:05:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:05:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:05:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:05:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:05:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:07:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:07:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:07:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:07:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[26-Aug-2021 13:07:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[07-Sep-2021 16:32:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Sep-2021 16:32:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Sep-2021 16:32:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Sep-2021 16:32:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Sep-2021 16:32:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[09-Sep-2021 13:46:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 13:46:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:07:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:07:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:07:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:07:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:07:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:11:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:11:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:11:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:11:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:11:17 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:17:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:20:50 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:20:50 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:20:50 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:20:50 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:20:50 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:22:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:22:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:22:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:22:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:22:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[09-Sep-2021 16:41:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[23-Sep-2021 13:30:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivos.php on line 46
+[29-Sep-2021 11:43:46 America/Mexico_City] PHP Notice:  Undefined index: rol in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 4
+[29-Sep-2021 11:43:46 America/Mexico_City] PHP Notice:  Undefined variable: no_reloj_col in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 115
+[29-Sep-2021 11:43:46 America/Mexico_City] PHP Notice:  Undefined variable: año in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 115
+[29-Sep-2021 11:43:46 America/Mexico_City] PHP Notice:  Undefined variable: relojLider in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 119
+[29-Sep-2021 11:43:46 America/Mexico_City] PHP Notice:  Undefined variable: año in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 120
+[29-Sep-2021 11:44:11 America/Mexico_City] PHP Notice:  Undefined variable: año in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 97
+[30-Sep-2021 13:44:04 America/Mexico_City] PHP Notice:  Undefined index: rol in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 4
+[30-Sep-2021 13:44:04 America/Mexico_City] PHP Notice:  Undefined variable: no_reloj_col in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 115
+[30-Sep-2021 13:44:04 America/Mexico_City] PHP Notice:  Undefined variable: año in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 115
+[30-Sep-2021 13:44:04 America/Mexico_City] PHP Notice:  Undefined variable: relojLider in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 119
+[30-Sep-2021 13:44:04 America/Mexico_City] PHP Notice:  Undefined variable: año in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 120
+[30-Sep-2021 18:13:03 America/Mexico_City] PHP Notice:  Undefined variable: año in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 97
+[30-Sep-2021 18:21:12 America/Mexico_City] PHP Notice:  Undefined variable: año in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 97
+[08-Oct-2021 18:49:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[08-Oct-2021 18:49:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[08-Oct-2021 18:50:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[08-Oct-2021 18:50:38 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[08-Oct-2021 18:52:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[08-Oct-2021 18:52:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[11-Oct-2021 11:15:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[11-Oct-2021 11:15:01 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[04-Nov-2021 08:15:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[05-Nov-2021 10:41:40 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[05-Nov-2021 10:41:40 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[10-Nov-2021 11:06:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 47
+[10-Nov-2021 11:20:50 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 47
+[10-Nov-2021 11:22:06 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 47
+[10-Nov-2021 11:22:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 47
+[10-Nov-2021 11:24:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 49
+[10-Nov-2021 11:29:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 49
+[10-Nov-2021 11:29:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 49
+[10-Nov-2021 11:30:23 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 49
+[10-Nov-2021 11:31:22 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 52
+[10-Nov-2021 11:32:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 54
+[10-Nov-2021 11:32:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 54
+[10-Nov-2021 11:32:50 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 54
+[10-Nov-2021 11:33:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 54
+[10-Nov-2021 11:33:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 54
+[10-Nov-2021 11:33:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 54
+[10-Nov-2021 11:35:29 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:35:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:35:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:36:28 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:36:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:39:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:40:21 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:42:55 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:43:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:43:30 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:43:57 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:44:52 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:45:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:45:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:45:25 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:45:53 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:50:13 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:51:36 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:52:00 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:52:20 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:53:12 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 55
+[10-Nov-2021 11:53:42 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 54
+[10-Nov-2021 11:53:44 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 54
+[10-Nov-2021 12:44:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 89
+[10-Nov-2021 12:44:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 89
+[10-Nov-2021 12:45:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 89
+[10-Nov-2021 12:46:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php:90
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 90
+[10-Nov-2021 12:47:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 89
+[10-Nov-2021 12:47:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 89
+[10-Nov-2021 12:48:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 89
+[10-Nov-2021 12:51:09 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 89
+[10-Nov-2021 12:52:10 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 89
+[10-Nov-2021 12:52:10 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 94
+[10-Nov-2021 12:53:46 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 94
+[10-Nov-2021 12:53:46 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[10-Nov-2021 12:54:44 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 94
+[10-Nov-2021 12:54:44 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[10-Nov-2021 12:55:52 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 94
+[10-Nov-2021 12:55:52 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[10-Nov-2021 12:56:16 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 94
+[10-Nov-2021 12:56:16 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[10-Nov-2021 13:28:12 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 173
+[10-Nov-2021 16:18:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 32
+[10-Nov-2021 16:58:33 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 16:58:33 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[10-Nov-2021 16:58:33 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 16:58:33 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[10-Nov-2021 16:58:49 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 16:58:49 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[10-Nov-2021 16:58:49 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 16:58:49 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[10-Nov-2021 16:59:39 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 16:59:39 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[10-Nov-2021 16:59:39 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 16:59:39 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[10-Nov-2021 17:00:49 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 17:00:49 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[10-Nov-2021 17:00:49 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 17:00:49 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[10-Nov-2021 17:02:16 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 60
+[10-Nov-2021 17:02:16 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 63
+[10-Nov-2021 17:02:16 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 60
+[10-Nov-2021 17:02:16 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 63
+[10-Nov-2021 17:03:08 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 17:03:08 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[10-Nov-2021 17:03:08 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 61
+[10-Nov-2021 17:03:08 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 64
+[22-Nov-2021 10:23:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[22-Nov-2021 10:23:24 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientesPersonalInfo.php on line 55
+[23-Nov-2021 15:56:34 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 50
+[07-Dec-2021 15:57:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php:139
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 139
+[07-Dec-2021 15:57:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php:139
+Stack trace:
+#0 {main}
+  thrown in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 139
+[07-Dec-2021 17:59:24 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 164
+[07-Dec-2021 18:00:34 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 164
+[07-Dec-2021 18:00:47 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 164
+[08-Dec-2021 13:14:45 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[08-Dec-2021 13:14:45 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[14-Dec-2021 15:45:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[14-Dec-2021 15:45:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[14-Dec-2021 15:45:18 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[14-Dec-2021 15:48:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[14-Dec-2021 15:48:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[14-Dec-2021 15:48:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:22:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:22:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:22:09 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:33:08 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:33:08 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:33:08 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:35:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:35:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:35:39 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:49:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:49:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[29-Dec-2021 14:49:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPendientes.php on line 57
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:02 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:05 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 99
+[05-Jan-2022 16:06:56 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 102
+[06-Jan-2022 17:32:35 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Jan-2022 15:43:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 66
+[07-Jan-2022 15:54:21 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 15:54:21 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 166
+[07-Jan-2022 15:54:21 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 15:54:21 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 166
+[07-Jan-2022 15:54:45 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 15:54:45 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 166
+[07-Jan-2022 15:54:45 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 15:54:45 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 166
+[07-Jan-2022 16:03:41 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:03:41 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 166
+[07-Jan-2022 16:03:41 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:03:41 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 166
+[07-Jan-2022 16:03:41 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:03:41 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 166
+[07-Jan-2022 16:04:09 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 162
+[07-Jan-2022 16:04:09 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 165
+[07-Jan-2022 16:04:09 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 162
+[07-Jan-2022 16:04:09 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 165
+[07-Jan-2022 16:04:09 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 162
+[07-Jan-2022 16:04:09 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 165
+[07-Jan-2022 16:05:25 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 162
+[07-Jan-2022 16:05:25 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 165
+[07-Jan-2022 16:05:25 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 162
+[07-Jan-2022 16:05:25 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 165
+[07-Jan-2022 16:05:25 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 162
+[07-Jan-2022 16:05:25 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 165
+[07-Jan-2022 16:05:35 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 162
+[07-Jan-2022 16:05:35 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 165
+[07-Jan-2022 16:05:35 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 162
+[07-Jan-2022 16:05:35 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 165
+[07-Jan-2022 16:05:35 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 162
+[07-Jan-2022 16:05:35 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 165
+[07-Jan-2022 16:06:01 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:06:01 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:06:01 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:06:01 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:06:01 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:06:01 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:06:11 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:06:11 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:06:11 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:06:11 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:06:11 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:06:11 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:06:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:06:47 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:06:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:06:47 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:06:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:06:47 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:08:46 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:08:46 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:08:46 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:08:46 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:08:46 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:08:46 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:08:58 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:08:58 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:08:58 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:08:58 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 163
+[07-Jan-2022 16:09:49 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 157
+[07-Jan-2022 16:09:49 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:09:49 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 157
+[07-Jan-2022 16:09:49 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:10:19 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 157
+[07-Jan-2022 16:10:19 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:10:19 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 157
+[07-Jan-2022 16:10:19 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:10:35 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 157
+[07-Jan-2022 16:10:35 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:10:35 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 157
+[07-Jan-2022 16:10:35 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNewUsers.php on line 160
+[07-Jan-2022 16:22:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 309
+[07-Jan-2022 16:23:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 309
+[07-Jan-2022 17:36:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'l' (T_STRING), expecting ',' or ';' in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 182
+[07-Jan-2022 17:36:49 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'l' (T_STRING), expecting ',' or ';' in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosNew.php on line 182
+[07-Jan-2022 17:41:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Jan-2022 17:41:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Jan-2022 17:41:15 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Jan-2022 17:41:26 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Jan-2022 17:41:26 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Jan-2022 17:41:26 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Jan-2022 17:41:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Jan-2022 17:41:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[07-Jan-2022 17:41:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Jan-2022 17:34:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Jan-2022 17:34:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Jan-2022 19:10:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Jan-2022 19:10:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Jan-2022 19:10:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Jan-2022 19:10:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[11-Jan-2022 19:10:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Jan-2022 12:49:45 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Jan-2022 13:58:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Jan-2022 13:58:41 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Jan-2022 13:59:26 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[15-Jan-2022 14:10:54 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:00:36 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:00:36 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:00:36 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:00:36 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:00:36 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:01:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:01:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:01:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:01:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:01:51 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:02:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:02:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:02:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:02:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:02:02 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:11:48 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[16-Jan-2022 20:12:16 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 17:51:22 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[19-Jan-2022 22:34:27 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:47:58 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:48:37 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:50:31 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:51:05 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 11:54:50 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:12:43 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
+[21-Jan-2022 12:22:07 America/Mexico_City] PHP Warning:  Division by zero in /home3/tecmagdp/public_html/loads/objetivos/tablaObjetivosPersonalInfo.php on line 58
