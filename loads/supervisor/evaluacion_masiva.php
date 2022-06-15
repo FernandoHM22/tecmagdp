@@ -299,22 +299,18 @@ if (mysqli_num_rows($sql_evaluacion) > 0) {
                 while ($d = mysqli_fetch_assoc($sql_oportunidades)) {
                   echo '<td class="input_oportunidad" data-id="' . $d["id_oportunidad"] . '">' . $d["oportunidad"] . '</td>';
                 }
-                mysqli_free_result($sql_oportunidades); ?>
+                mysqli_free_result($sql_oportunidades); 
+                ?>
               </tr>
-            <? }
+            <?php }
             mysqli_free_result($sql_colaboradores);
             ?>
           </tbody>
         </table>
       </div>
     </div>
-  <?php
-  } else {
-  ?>
+  <?php } ?>
 
-  <?php
-  }
-  ?>
 </div>
 
 <script>
