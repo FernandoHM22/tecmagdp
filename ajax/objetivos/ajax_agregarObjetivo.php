@@ -40,32 +40,30 @@
 				'borrador' => $txtborrador,
 			);
 		}
-		
 	}
 
-	$sql = "INSERT INTO objetivos_gdp (categoria, objetivo, descripcion_meta,meta_num, obj_no_reloj, fecha_reg, año_reg, estatus_objetivos, borrador_estatus) VALUES ('$txtcategoria','$txtobjetivo','$txtdescripcion_meta','$txtmeta', '$txtreloj', '$txtfechaReg','$txtaño','$txtestatus','$txtborrador')";
+	$sql = "INSERT INTO objetivos_gdp (categoria, objetivo, descripcion_meta,meta_num, obj_no_reloj, fecha_reg, anio_reg, estatus_objetivos, borrador_estatus) VALUES ('$txtcategoria','$txtobjetivo','$txtdescripcion_meta','$txtmeta', '$txtreloj', '$txtfechaReg','$txtaño','$txtestatus','$txtborrador')";
 
-	$query_evidencias = "INSERT INTO objetivos_gdp (id_rel_estrategia, estrategia, metricos_kpi, medida_estrategia, ponderacion_num, responsable, obj_no_reloj, fecha_reg, año_reg, estatus_objetivos,borrador_estatus) VALUES";
+	$query_evidencias = "INSERT INTO objetivos_gdp (id_rel_estrategia, estrategia, metricos_kpi, medida_estrategia, ponderacion_num, responsable, obj_no_reloj, fecha_reg, anio_reg, estatus_objetivos,borrador_estatus) VALUES";
 
-	if ($conn->query($sql) === TRUE) {
-	$last_id_objetivo = $conn->insert_id;
-	
-	$all_values_dl = [];
-	foreach ($data as $key) {
-		$row_values = [];
-		foreach ($key as $skey => $s_value) {
-			$row_values[] = '"' . $s_value . '"';
+	if (mysqli_query($conn, $sql) === TRUE) {
+		$last_id_objetivo = $conn->insert_id;
+		$all_values_dl = [];
+		foreach ($data as $key) {
+			$row_values = [];
+			foreach ($key as $skey => $s_value) {
+				$row_values[] = '"' . $s_value . '"';
+			}
+			$all_values_dl[] = '("' . $last_id_objetivo . '",' . implode(',', $row_values) . ')';
 		}
-		$all_values_dl[] = '("' . $last_id_objetivo . '",' . implode(',', $row_values) . ')';
-	}
-	$query_evidencias .= implode(',', $all_values_dl);
-	//var_dump($query_evidencias);
-
-	if (mysqli_query($conn, $query_evidencias)) {
-		echo 1;
-	}
+		$query_evidencias .= implode(',', $all_values_dl);
+		if (mysqli_query($conn, $query_evidencias) === TRUE) {
+			echo 1;
+		}else{
+			echo 0;
+		}
 	} else {
 		echo 0;
 	}
-	$conn->close();
+	mysqli_close($conn);
 	?>
