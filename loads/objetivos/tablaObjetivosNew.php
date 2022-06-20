@@ -50,7 +50,7 @@ $año = 2022;
   </thead>
   <tbody>
     <?php
-    $buscarInfo = mysqli_query($conn, "SELECT * FROM objetivos_gdp where obj_no_reloj = '$no_reloj' AND año_reg LIKE '$año' AND categoria != '' ORDER BY categoria ASC");
+    $buscarInfo = mysqli_query($conn, "SELECT * FROM objetivos_gdp where obj_no_reloj = '$no_reloj' AND anio_reg LIKE '$año' AND categoria != '' ORDER BY categoria ASC");
     if (mysqli_num_rows($buscarInfo) > 0) {
       $sumaResultado = 0;
 
@@ -101,7 +101,7 @@ $año = 2022;
           </td>
         </tr>
         <?php
-        $sql_estrategias = mysqli_query($conn, "SELECT * FROM objetivos_gdp where id_rel_estrategia = '$idObj' AND año_reg LIKE '$año'");
+        $sql_estrategias = mysqli_query($conn, "SELECT * FROM objetivos_gdp where id_rel_estrategia = '$idObj' AND anio_reg LIKE '$año'");
         if (mysqli_num_rows($sql_estrategias) > 0) {
           while ($r = mysqli_fetch_assoc($sql_estrategias)) {
             $i = 1;
@@ -150,7 +150,7 @@ $año = 2022;
       <a class="add" title="Agregar" data-toggle="tooltip" id="<?php echo $id_reddin; ?>">Guardar</a></td><tr>';
     }
 
-    $sql_estrategia_a_objetivos = mysqli_query($conn, "SELECT * FROM objetivos_gdp WHERE responsable LIKE '%$no_reloj%' AND año_reg = '$año' ORDER BY categoria ASC");
+    $sql_estrategia_a_objetivos = mysqli_query($conn, "SELECT * FROM objetivos_gdp WHERE responsable LIKE '%$no_reloj%' AND anio_reg = '$año' ORDER BY categoria ASC");
     if (mysqli_num_rows($sql_estrategia_a_objetivos) > 0) {
       $sumaResultado = 0;
 
@@ -233,7 +233,7 @@ $año = 2022;
             </td>
           </tr>
           <?php
-          $sql_estrategias = mysqli_query($conn, "SELECT * FROM objetivos_gdp where id_rel_estrategia = '$idObj' AND obj_no_reloj = '$no_reloj' AND año_reg LIKE '$año'");
+          $sql_estrategias = mysqli_query($conn, "SELECT * FROM objetivos_gdp where id_rel_estrategia = '$idObj' AND obj_no_reloj = '$no_reloj' AND anio_reg LIKE '$año'");
           if (mysqli_num_rows($sql_estrategias) > 0) {
             while ($r = mysqli_fetch_assoc($sql_estrategias)) {
               $i = 1;
@@ -284,7 +284,7 @@ $año = 2022;
     <tr>
       <td colspan="9" style="text-align: right; color: #000; font-weight: 500; font-size: 15px;">Total:</td>
       <td> <?php
-            $consulta = "SELECT SUM(ponderacion_num) as TotalPond FROM objetivos_gdp WHERE obj_no_reloj = '$no_reloj' AND año_reg LIKE '$año'";
+            $consulta = "SELECT SUM(ponderacion_num) as TotalPond FROM objetivos_gdp WHERE obj_no_reloj = '$no_reloj' AND anio_reg LIKE '$año'";
             $resultado = $conn->query($consulta);
             $fila = $resultado->fetch_assoc(); //que te devuelve un array asociativo con el nombre del campo
             $TotalPorcentaje = $fila['TotalPond'];
@@ -308,7 +308,7 @@ $año = 2022;
   </div>
   <div class="col-md-12">
     <?php
-    $sql_borrador_estatus = mysqli_query($conn, "SELECT borrador_estatus FROM objetivos_gdp WHERE obj_no_reloj = '$no_reloj' AND  año_reg LIKE '$año' AND borrador_estatus LIKE '1'");
+    $sql_borrador_estatus = mysqli_query($conn, "SELECT borrador_estatus FROM objetivos_gdp WHERE obj_no_reloj = '$no_reloj' AND  anio_reg LIKE '$año' AND borrador_estatus LIKE '1'");
     if (mysqli_num_rows($sql_borrador_estatus) > 0) {
     ?>
       <div class="alert alert-success" role="alert" id="textEstatusObjetivos">
