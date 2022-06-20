@@ -11,7 +11,7 @@ $añoActual = date('Y');
     if (mysqli_num_rows($resultado) > 0) {
         echo "<label id='lblAsistentes' style='font-weight:600;'>DIRECTOS</label>";
     ?>
-        <div class="card-columns">
+        <div class="row row-cols-md-2">
             <?php
             $o = 1;
             $p = 1;
@@ -23,44 +23,48 @@ $añoActual = date('Y');
                 $no_reloj_col = $datos['no_reloj'];
                 $personalCargo = $datos['cargoColab'];
             ?>
-                <div class="card card_colaboradores h-100" style="width: 14rem; height:25rem; margin-top: 10px;">
-                    <div class="img">
-                        <img class="card-img-top" src="<?php if (empty($datos['img'])) {
-                                                            echo '../../images/img_default.png';
-                                                        }else{ echo $datos['img'];} ?>">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title text-center m-0"><?= $datos['nombres'] ?></h5>
-                        <div class="text-center">
-                            <p class="card-text card_reloj"><?= $datos['no_reloj'] ?></p>
-                            <p class="card-text card_puesto"><?= $datos['puesto'] ?></p>
-                            <div class="row">
-                                <div class="col">
-                                    <div class="chart-container">
-                                        <a href="personal_info.php?no_reloj_col=<?= $datos['no_reloj']; ?>&displayCard=d-blockObjetivos&eventCard=objetivos">
-                                            <canvas class="chartObjetivos" id="dougnutObjetivos<?= $o++; ?>"></canvas>
-                                        </a>
+                <div class="col-3 mb-2">
+                    <div class="card card_colaboradores h-100">
+                        <div class="img">
+                            <img class="card-img-top" src="<?php if (empty($datos['img'])) {
+                                                                echo '../../images/img_default.png';
+                                                            } else {
+                                                                echo $datos['img'];
+                                                            } ?>">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title text-center m-0"><?= $datos['nombres'] ?></h5>
+                            <div class="text-center">
+                                <p class="card-text card_reloj"><?= $datos['no_reloj'] ?></p>
+                                <p class="card-text card_puesto"><?= $datos['puesto'] ?></p>
+                                <div class="row">
+                                    <div class="col">
+                                        <div class="chart-container">
+                                            <a href="personal_info.php?no_reloj_col=<?= $datos['no_reloj']; ?>&displayCard=d-blockObjetivos&eventCard=objetivos">
+                                                <canvas class="chartObjetivos" id="dougnutObjetivos<?= $o++; ?>"></canvas>
+                                            </a>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col">
-                                    <div class="chart-container">
-                                        <a href="#" class="btnModalCompetencias" data-id="<?= $datos['no_reloj'] ?>">
-                                            <canvas class="chartCompetencias" id="dougnutCompetencias<?= $c++; ?>"></canvas>
-                                        </a>
+                                    <div class="col">
+                                        <div class="chart-container">
+                                            <a href="#" class="btnModalCompetencias" data-id="<?= $datos['no_reloj'] ?>">
+                                                <canvas class="chartCompetencias" id="dougnutCompetencias<?= $c++; ?>"></canvas>
+                                            </a>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col">
-                                    <div class="chart-container">
-                                        <a href="personal_info.php?no_reloj_col=<?= $datos['no_reloj']; ?>&displayCard=d-blockPlanes&eventCard=planes">
-                                            <canvas class="chartGPTW" id="dougnutGPTW<?= $g++; ?>"></canvas>
-                                        </a>
+                                    <div class="col">
+                                        <div class="chart-container">
+                                            <a href="personal_info.php?no_reloj_col=<?= $datos['no_reloj']; ?>&displayCard=d-blockPlanes&eventCard=planes">
+                                                <canvas class="chartGPTW" id="dougnutGPTW<?= $g++; ?>"></canvas>
+                                            </a>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col">
-                                    <div class="chart-container">
-                                        <a href="personal_info.php?no_reloj_col=<?= $datos['no_reloj']; ?>&displayCard=d-blockPlanes&eventCard=planes">
-                                            <canvas class="chartPlanes" id="dougnutPlanes<?= $p++; ?>"></canvas>
-                                        </a>
+                                    <div class="col">
+                                        <div class="chart-container">
+                                            <a href="personal_info.php?no_reloj_col=<?= $datos['no_reloj']; ?>&displayCard=d-blockPlanes&eventCard=planes">
+                                                <canvas class="chartPlanes" id="dougnutPlanes<?= $p++; ?>"></canvas>
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -97,7 +101,7 @@ $añoActual = date('Y');
             while ($datos = mysqli_fetch_assoc($r)) {
                 $no_reloj_col = $datos['no_reloj'];
             ?>
-                <div class="card card_colaboradores" style="width: 14rem; height:17em; margin-top: 10px;">
+                <div class="card card_colaboradores">
                     <div class="img">
                         <img class="card-img-top" src="<?php echo $datos['img']; ?>">
                     </div>

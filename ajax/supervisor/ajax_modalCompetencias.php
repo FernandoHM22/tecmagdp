@@ -4,7 +4,7 @@ $no_reloj = $_POST['no_reloj'];
 ?>
 <div class="row justify-content-md-center">
     <div class="col-md-auto">
-        <div class="chart-container" style=" position: relative; height: 85vh; width:70vw;">
+        <div class="chart-container" style=" position: relative; height: 85vh; width:80vw;">
             <canvas id="charHorizontalCompetencias"></canvas>
         </div>
     </div>
@@ -20,8 +20,10 @@ if (mysqli_num_rows($sql_competencias) > 0) {
     }
     mysqli_free_result($sql_competencias);
 } else {
+    $arrayResultadoCompetencias[] = '';
     $avg = 0;
 }
+
 $arrayResultado = implode(",", $arrayResultadoCompetencias);
 ?>
 

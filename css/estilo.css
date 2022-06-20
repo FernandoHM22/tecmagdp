@@ -620,41 +620,6 @@ h6 {
   text-align: center;
 }
 
-.card-columns {
-  display: flex;
-  flex-flow: row wrap;
-  width: 100%;
-}
-
-.card-columns .card {
-  flex: auto;
-  height: 250px;
-  min-width: 150px;
-  margin: 0 8px 8px 0;
-}
-
-.card-columns .card:nth-child(4n + 1) {
-  width: 250px;
-}
-
-.card-columns .card:nth-child(4n + 1):nth-child(4n + 1) {
-  width: 325px;
-}
-
-.card-columns .card:nth-child(4n + 1):nth-child(4n + 3) {
-  width: 180px;
-}
-
-.card-columns .card:nth-child(4n + 1):nth-child(4n + 4) {
-  width: 380px;
-}
-
-@media (min-width: 1500px) {
-  .card-columns .card {
-    min-width: 300px;
-  }
-}
-
 @supports (object-fit: cover) {
   .card img {
     height: 100%;
@@ -777,6 +742,14 @@ h6 {
   .notfound a {
     padding: 7px 15px;
     font-size: 14px;
+  }
+}
+
+@media (min-width: 1500px) {
+  #modalCompetencias .chart-container {
+    position: relative;
+    height: 65vh!important;
+    width: 60vw!important;
   }
 }
 
@@ -1542,9 +1515,10 @@ textarea[name="comentarioLider"] {
   color: #27c46b;
 }
 
-.tablaObjetivos  .agregarNuevaEstrategia, .tablaObjetivos td .add{
+.tablaObjetivos .agregarNuevaEstrategia,
+.tablaObjetivos td .add {
   background-color: #218838;
-  color:#fff!important;
+  color: #fff !important;
   font-weight: 600;
   padding: 5px;
   border-radius: 5px;
@@ -1616,10 +1590,6 @@ textarea[name="comentarioLider"] {
   top: 3px;
 }
 
-
-
-
-
 .tablaOportunidades .form-control,
 .tablaPlaneacion .form-control,
 .tablaObjetivos .form-control,
@@ -1672,9 +1642,6 @@ textarea[name="comentarioLider"] {
 .tableIngles .add {
   display: none;
 }
-
-
-
 
 #agregarGPTW,
 .add-new,
@@ -2769,7 +2736,7 @@ form#form-acciones #file {
   margin-top: 15px;
   margin-bottom: 0;
 }
-.container-perfil .seccionImagenPerfil .correo .form-control{
+.container-perfil .seccionImagenPerfil .correo .form-control {
   color: #a7a5a5;
 }
 
@@ -3579,7 +3546,7 @@ form#form-acciones #file {
   font-size: 12px;
 }
 
- .colBotones .uncheckAllRegion::after {
+.colBotones .uncheckAllRegion::after {
   font-family: "Font Awesome 5 Free";
   content: "\f00d";
   display: inline-block;
@@ -3589,7 +3556,6 @@ form#form-acciones #file {
   top: 9px;
   position: absolute;
 }
-
 
 .card-gptw .colBotones button.selectAllDeptos {
   padding: 0 3px;
@@ -3612,12 +3578,11 @@ form#form-acciones #file {
   position: absolute;
 }
 
-
 .cardMesesGPTW .colBotones button.selectAllMeses {
   padding: 0 3px;
   font-size: 12px;
 }
-.cardMesesGPTW .colBotones button.uncheckAllMeses{
+.cardMesesGPTW .colBotones button.uncheckAllMeses {
   padding: 0 10px;
   font-size: 12px;
 }
